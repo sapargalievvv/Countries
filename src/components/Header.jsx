@@ -64,3 +64,7 @@ export const Header = () => {
     </HeaderEl>
   );
 };
+
+// eto rekviem 
+
+// Проверка коммита и еще я не знаю насколько styled components актуальный 
